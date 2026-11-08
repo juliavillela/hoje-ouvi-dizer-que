@@ -4,13 +4,10 @@ created: "{{date}}"
 modified:
 draft: true
 ---
-**descrição do perfil**: 
+>[!tip] Acompanhar
+> **descrição do perfil**: 
+> [instagram]() | [tiktok]() | [youtube]() | [twitter]() |  [bluesky]()
 
-- [instagram]()
-- [tiktok]()
-- [youtube]()
-- [twitter]()
-- [bluesky]()
 
 ---
 # Posts Salvos

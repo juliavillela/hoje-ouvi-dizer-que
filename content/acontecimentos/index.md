@@ -1,0 +1,1 @@
+Passou na minha timeline, aí eu anotei.
